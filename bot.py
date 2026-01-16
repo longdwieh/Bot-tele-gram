@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # ====== CẤU HÌNH ======
-TOKEN = os.getenv("8062649575:AAFspL7tJbXjldtilTeRjZZk1NpNKeqs6e8")  # Token lấy từ Environment Variables trên Render
+TOKEN = os.getenv("8392947840:AAEqDR_DXzwvoxiIg6Ze7AHtFgJm---fDRg")  # Token lấy từ Environment Variables trên Render
 SUNWIN_API = "https://sunwinsaygex-pcl2.onrender.com/api/sun"
 LC79_API = "https://lc79md5-lun8.onrender.com/lc79md5"
 N = 20  # số phiên thống kê SUNWIN
